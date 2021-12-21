@@ -1,6 +1,8 @@
 # typora.theme.deepash
 基于typora官方ash修改的主题
 
+![image-20211221152606465](assets/image-20211221152606465.png)
+
 ## 测试版本
 
 Mac 10.14 typora 0.11.16
