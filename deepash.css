@@ -215,7 +215,7 @@ th {
 #write {
     /*这一行是移除内容的闭合引号,不知道干嘛的,以后查一查*/
     /*content: no-close-quote;*/
-	cursor: -webkit-image-set(url("MyAsh/cursor@2x.png") 1.5x, url("MyAsh/cursor@2x.png") 2x) 0 0, auto;
+	/*cursor: -webkit-image-set(url("MyAsh/cursor@2x.png") 1.5x, url("MyAsh/cursor@2x.png") 2x) 0 0, auto;*/
     /*cursor: -webkit-image-set(url("myash/cursor@2x_pix.png") 8x) 0 0 ,auto;*/
 }
 
